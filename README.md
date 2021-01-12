@@ -1,9 +1,9 @@
 # Secret_Sharing
-Projekt przygotowany w ramach przedmiotu kryptografia. Program umożliwia dzielenie sekretu za pomocą trzech protokołów: Shamira, Blakleya oraz Asmuth-Bloom
+Projekt przygotowany w ramach przedmiotu kryptografia. Program umożliwia dzielenie sekretu za pomocą trzech protokołów: Shamira, Blakleya oraz Asmuth-Bloom <br /><br />
 
-Do działania programu programu należy mieć zainstalowane odpowiednie biblioteki python-a. Najłatwiej zainstalować je za pomocą pip install
+Do działania programu programu należy mieć zainstalowane odpowiednie biblioteki python-a. Najłatwiej zainstalować je za pomocą pip install<br /><br />
 
-pip install numpy
-KONIECZNA JEST TA WERSJA NUMPY W PRZYPADKU UŻYCIA INNEJ PROGRAM NIE DZIAŁA NA WINDOWS 10
-pip install numpy==1.19.3
-pip install crypto
+pip install numpy<br />
+KONIECZNA JEST TA WERSJA NUMPY W PRZYPADKU UŻYCIA INNEJ PROGRAM NIE DZIAŁA NA WINDOWS 10<br />
+pip install numpy==1.19.3<br />
+pip install crypto<br />
